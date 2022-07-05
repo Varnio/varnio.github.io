@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Products on Varnio Technologies</title>
+    <link>/products/</link>
+    <description>Recent content in Products on Varnio Technologies</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Jul 2022 00:00:00 +1000</lastBuildDate><atom:link href="/products/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FedSim</title>
+      <link>/products/fedsim/</link>
+      <pubDate>Tue, 05 Jul 2022 00:00:00 +1000</pubDate>
+      
+      <guid>/products/fedsim/</guid>
+      <description>FedSim FedSim is a generic Federated Learning simulator. See the latest documentation at this link.</description>
+    </item>
+    
+  </channel>
+</rss>
