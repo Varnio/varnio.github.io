@@ -1,0 +1,32 @@
+{{ define "body_classes" }}page-resume-single{{ end }}
+
+{{ define "main" }}
+<div class="resume resume-summary resume-summary-large">
+  <div class="container pb-6 pt-6 pt-md-10 pb-md-10">
+    <div class="row justify-content-start">
+      {{ if .Params.image }}
+      <div class="col-6 col-md-4">
+        <div class="resume-image">
+          <img width="200" height="200" alt="Photo of {{ .Title }}" class="img-fluid mb-2" src="{{ .Params.image | relURL }}" />
+        </div>
+      </div>
+      {{ end }}
+      <div class="col-6 col-md-4">
+        <div class="row justify-content-start">
+          <div>Email:&nbsp; <a href="mailto:{{.Params.email}}">{{.Params.email}}</a></div>
+          <div> Website:&nbsp; <a href="{{.Params.website}}">{{.Params.website}}</a> </div>
+          <div> Github:&nbsp; <a href="{{.Params.github}}">{{.Params.github}}</a> </div>
+          <div> LinkedIn:&nbsp; <a href="{{.Params.linkedin}}">{{.Params.github}}</a> </div>
+          <div> OtherVersions:&nbsp; <a href="{{.Params.pdflink}}">PDF Resume</a> </div>
+        </div>
+      
+      </div>
+    </div>
+    <div class="row justify-content-start">
+      <div class="col-12 col-md-8">
+        <div class="resume-content">{{.Content}}</div>
+      </div>
+    </div>
+  </div>
+</div>
+{{ end }}

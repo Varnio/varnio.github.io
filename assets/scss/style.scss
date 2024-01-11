@@ -44,15 +44,20 @@ $sub-footer-text-color: $white;
 @import 'components/call';
 @import 'components/title';
 @import 'components/content';
+@import 'components/announcement';
 @import 'components/intro';
 @import 'components/intro-image';
 @import 'components/strip';
 @import 'components/feature';
 @import 'components/social';
 
+// post
+@import 'posts';
+
 // Pages
 @import 'pages/home';
 @import 'pages/team/team-summary';
+@import 'pages/resume/resume';
 @import 'pages/services/page-services-single';
 
 body {

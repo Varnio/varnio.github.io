@@ -1,0 +1,25 @@
+<div class="service service-summary">
+  <div class="service-content">
+    <h2 class="service-title">
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </h2>
+    <p>{{ .Content | plainify | htmlUnescape | truncate 120 "…"}}</p>
+
+    {{ $teamPages := where .Site.Pages "Section" "team" }}
+    {{ $teamPages.Pages }}
+    {{ $x := index $teamPages 0 }}
+    {{ $x.Description }}
+    
+
+    {{ $sectionPages := where .Site.Pages "Section" "team" }}
+    {{ if ge (len $sectionPages) 1 }}
+      <ul>
+        {{ range $sectionPages }}
+          <li>{{ .Title }}</li>
+        {{ end }}
+      </ul>
+    {{ end }}
+    
+
+  </div>
+</div>
