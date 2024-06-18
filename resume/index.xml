@@ -5,16 +5,19 @@
     <link>/resume/</link>
     <description>Recent content in Resumes on Varnio Technologies</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/resume/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    
+	<atom:link href="/resume/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Farshid Varno</title>
       <link>/resume/farshid/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/resume/farshid/</guid>
-      <description>Intro I&amp;rsquo;m a Research Scientist with a strong technical background in HW/SW co-design and Edge AI. In summary I&amp;rsquo;m:
-A Research Scientist at Rain The creator of FedSim Federated Learning Simulator (https://fedsim.varnio.com) The first author of an international patent on Transfer Learning A reviewer for top ML conferences like ECCV, CVPR, ICCV and I have:
-4+ years experience as Research Scientist (industrial) 1+ years experience as Data Scientist and Research Assistant (academic &amp;amp; industrial) 2+ years experience as FPGA Engineer/RTL Designer (academic &amp;amp; industrial) Experience Research &amp;amp; Industry Research Scientist, Rain August 2023&amp;ndash;present, Montreal, Canada Research and development of novel machine learning algorithms for edge devices Research Scientist, Imagia May 2018&amp;ndash;March 2022 (internship period included), Montreal, Canada Research on Federated Learning optimization led to SoTA performance via drift elimination Research on Transfer Learning led to a filed patent Research on multiple Meta Learning and Few-shot Learning projects Research on Multi-hypothesis Transfer Learning and out of distribution generalization Collaborated with R&amp;amp;D team in designing an AI library for Imagia research Collaborated with IT in porting Polyaxon on a cluster of NVIDIA DGX systems Research Assistant, Institute for Big Data Analytics May 2017&amp;ndash;May 2018, Halifax, Canada Research on predicting human behaviour from fMRI data Developing a CNN framework for detecting corrosion in aircrafts using D-Sight technology (DAIS) Optimizing calculation of minimum distance to shore from AIS-GIS streaming data using CUDA and OpenMP Research on sparsity, activation functions and normalization Data Scientist (part-time), Cognitive Health and Recovery Research Lab Mar 2020&amp;ndash;Jun 2020, Halifax, Canada Clinical data integration and visualization Investigating post-operative cognitive dysfunction in elderly patients Analyzing surgical time series data (anesthesia depth, patients’ vitals, …) FPGA Engineer, Kara Telephone Co.</description>
+      <description>Intro I&amp;rsquo;m a Research Scientist with a strong technical background in HW/SW co-design and Edge AI. In summary I have:
+ 5+ years experience as AI Research Scientist 1 years experience as Data Scientist 2+ years experience as FPGA Engineer/RTL Designer  Experience Research &amp;amp; Industry Research Scientist, Rain August 2023&amp;ndash;present, Montreal, Canada  Design and emulation of digital hardware units to work in the next generation of Rain&amp;rsquo;s Compute-In-Memory (CIM) technology (optimized for LLMs, Convs, etc.</description>
     </item>
     
   </channel>

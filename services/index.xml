@@ -6,14 +6,19 @@
     <description>Recent content in Services on Varnio Technologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Nov 2018 15:15:26 +1000</lastBuildDate><atom:link href="/services/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Nov 2018 15:15:26 +1000</lastBuildDate>
+    
+	<atom:link href="/services/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Research</title>
       <link>/services/research/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
       <guid>/services/research/</guid>
-      <description>To get the best out of your data, we are commited to provide summary, analysis and report of the knowledge you can extract from your data.</description>
+      <description>To get the best out of your data, we are commited to provide summary, analysis and report of the knowledge you can extract from your data.
+The ingredients of relevance are the predictive value and confirmatory value. Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements. ## Faithful Representation Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements.</description>
     </item>
     
     <item>

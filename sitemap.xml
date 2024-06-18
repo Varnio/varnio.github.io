@@ -1,48 +1,80 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
   <url>
     <loc>/team/farshid/</loc>
     <lastmod>2022-07-05T00:06:58+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/products/fedsim/</loc>
     <lastmod>2022-07-05T00:00:00+10:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/services/research/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/services/fl/</loc>
     <lastmod>2018-11-28T15:14:39+10:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/services/consaltation/</loc>
     <lastmod>2018-11-28T15:15:26+10:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/team/</loc>
     <lastmod>2022-07-05T00:06:58+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2022-07-05T00:06:58+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/products/</loc>
     <lastmod>2022-07-05T00:00:00+10:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/services/</loc>
     <lastmod>2018-11-28T15:15:26+10:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/about/</loc>
     <lastmod>2018-02-22T17:01:34+07:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2018-02-22T17:01:34+07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/contact/</loc>
     <priority>0</priority>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/resume/farshid/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/404/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/resume/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tags/</loc>
   </url>
+  
 </urlset>
